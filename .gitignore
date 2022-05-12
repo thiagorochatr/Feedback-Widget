@@ -21,3 +21,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# ATENÇÃO
+web/*.local
+web/.env.local
+
+# SERVER
+server/node_modules
+server/.env
+server/dist
