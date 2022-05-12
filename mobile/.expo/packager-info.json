@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://6w-jjv.thiagorochatr.mobile.exp.direct",
+  "packagerNgrokUrl": "https://6w-jjv.thiagorochatr.mobile.exp.direct",
+  "ngrokPid": 24240,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
