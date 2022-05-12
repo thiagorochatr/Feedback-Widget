@@ -1,5 +1,8 @@
 # Feedback-Widget
 
+
+
+
 <h1>README WEB</h1>
 
 <h2>Tecnologias/ferramentas/Bibliotecas usadas:</h2>
@@ -33,7 +36,11 @@
   <li>React Native</li>
   <li>Expo (mobile)</li>
   <li>Axios</li>
-  <!-- <li></li> -->
+  <li>PostgreSQL</li>
+  <br>
+  <h2>Deploy:</h2>
+  <li>Vercel</li>
+  <li>Railway</li>
 </ul>
 
 <br>
