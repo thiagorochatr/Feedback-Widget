@@ -1,10 +1,4 @@
 # Feedback-Widget
-
-
-
-
-<h1>README WEB</h1>
-
 <h2>Tecnologias/ferramentas/Bibliotecas usadas:</h2>
 <ul>
   <li>SPA ("Single Page App")</li>
@@ -44,7 +38,6 @@
 </ul>
 
 <br>
-<br>
 
 <h3>SOLID</h3>
 <p><strong>S -</strong> Single Responsibility Principle</p>
@@ -68,7 +61,7 @@
 <h4>Dependency Inversion Principle</h4>
 <p>Uma forma de inverter as dependências da classe/função. Fazer o contexto externo determinar as dependências que nossa classe/função precisa.</p>
 
-<h1>README MOBILE</h1>
+<h3>README MOBILE</h3>
 
 <p>No minuto 1:49:10, ele começa o backend da aplicação. Faz a interação do front com o back, e APIs</p>
 <br>
