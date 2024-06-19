@@ -9,7 +9,7 @@ export function Copyright() {
       <Text
         style={styles.text}
       >
-        Feito com ♥ pela Rocketseat
+        Feito com ♥
       </Text>
     </View>
   );
